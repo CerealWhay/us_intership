@@ -1,0 +1,8 @@
+{
+    "name": "cerealwhay/bxtest.com",
+    "description": "desc",
+    "type": "project",
+    "require-dev": {
+        "kint-php/kint": "^3.3"
+    }
+}
