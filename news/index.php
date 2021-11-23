@@ -91,8 +91,9 @@ $APPLICATION->SetTitle("Новости");
 	),
 	false
 );?>
+
 <?php
-Kint::dump($GLOBALS);
+//Kint::dump($products);
 ?>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
